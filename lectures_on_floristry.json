@@ -1,0 +1,42 @@
+{
+    "Kompozycje florystyczne": {
+        "teacher": "Grazyna Nosal",
+        "total hours": 10,
+        "hours have passed": 5,
+        "how many hours i was": 5,
+        "estimates": [],
+        "additional Information": ""
+    },
+    "Materialy florystyczne": {
+        "teacher": "Katazyna Kolanlo",
+        "total hours": 10,
+        "hours have passed": 5,
+        "how many hours i was": 0,
+        "estimates": [],
+        "additional Information": ""
+    },
+    "Podstawy dzialalnosci zawodowej": {
+        "teacher": "Krystyna Kucharewicz",
+        "total hours": 10,
+        "hours have passed": 5,
+        "how many hours i was": 0,
+        "estimates": [],
+        "additional Information": ""
+    },
+    "Przygotowanie do sprzedazy roslin, wyrobow i materialow florystycznych": {
+        "teacher": "Grazyna Nosal",
+        "total hours": 10,
+        "hours have passed": 5,
+        "how many hours i was": 5,
+        "estimates": [],
+        "additional Information": "Nie lubi, kiedy ktos sie spoznia"
+    },
+    "Wykonywanie kompozycji florystycznych": {
+        "teacher": "Emilia Tomasiuk-Mularczyk",
+        "total hours": 20,
+        "hours have passed": 20,
+        "how many hours i was": 10,
+        "estimates": [],
+        "additional Information": "Mozno spozniac sie na 30 minut, nie zaczniewczesniej"
+    }
+}
